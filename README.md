@@ -4,7 +4,7 @@ Some placeholder hands I made with MakeHuman for VR purposes.
 
 Usage
 -----
-Download a [pre-built package]()
+Download a [pre-built package](https://github.com/awentzonline/UnityVRHands/releases)
 
 Contribute
 ----------
